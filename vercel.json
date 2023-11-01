@@ -14,6 +14,15 @@
         ]
       },
       {
+        "source": "index.wasm",
+        "headers": [
+            {
+                "key": "Content-Type",
+                "value": "application/wasm"
+            }
+        ]
+      },
+      {
         "source": "/index.pck",
         "headers": [
           {
