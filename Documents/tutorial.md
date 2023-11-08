@@ -11,5 +11,5 @@ Dotnet has various templates that can be used for creating a website. For our pu
 1. Navigate to where you want to start your project. Ensure that you have all of the project files that were built from your webxr project.
 2. Once are in the directory where you want to start the asp.net project, type the command `dotnet new webapp -o Name_of_your_project`. Replace the `name_of_your_project` with a descriptive name of your choosing.
 3. You should now have a file structure that looks like this:
-
+<img src = "Graphics/ASP_File_Layout.png" alt = "Image of the ASP.net file Structure" width = "55%">
 
