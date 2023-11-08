@@ -93,9 +93,9 @@ Dotnet has various templates that can be used for creating a website. For our pu
         "Endpoints": {
         "Https":{
             "Url": "https://localhost:5001"
-        }
+            }
         }
     }
-    }
+}
 
 </details>
