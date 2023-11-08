@@ -18,7 +18,7 @@ THIS PROJECT IS CURRENTLY UNDER DEVELOPMENT
 ### How to create a WebXR project and create an asp.net web framework to serve it
 - You can easily create a WebXR project within the latest version of [Godot](https://godotengine.org/)
 - The tutorial for creating a WebXR project within Godot can be found [here](https://www.snopekgames.com/tutorial/2023/how-make-vr-game-webxr-godot-4) 
-- The tutorial for setting up an asp.net web framework for your WebXR Project can be found [here](Documents\tutorial.md).
+- The tutorial for setting up an asp.net web framework for your WebXR Project can be found [here](Documents/tutorial.md).
 
 ## Future Works
 This is a project that is meant to test the functionality of WebXR. I don't plan on re-creating or further developing the WebXR project. Although, I will test out this project with API calls in the near future among other things. I have a small list below.
