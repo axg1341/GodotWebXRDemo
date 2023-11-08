@@ -16,7 +16,7 @@ Dotnet has various templates that can be used for creating a website. For our pu
 4. In order to serve the proper headers and configurations for the godot webxr project, we have to add the following to `Program.cs`
 
 <details>
-    <summary>Click to see code</summary>
+    <summary>Click to see code :sparkles:</summary>
 
     
     using Microsoft.Extensions.Options;
