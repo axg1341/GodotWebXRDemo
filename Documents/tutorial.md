@@ -78,22 +78,24 @@ Dotnet has various templates that can be used for creating a website. For our pu
 5. Add the following to `appsettings.json`
 <details>
     <summary>Click to see code :sparkles:</summary>
-    {
-  "Logging": {
-    "LogLevel": {
-      "Default": "Information",
-      "Microsoft.AspNetCore": "Warning",
-      "Microsoft.Hosting.Lifetime": "Information"
+
+
+        {
+    "Logging": {
+        "LogLevel": {
+        "Default": "Information",
+        "Microsoft.AspNetCore": "Warning",
+        "Microsoft.Hosting.Lifetime": "Information"
+        }
+    },
+    "AllowedHosts": "*",
+    "Kestrel": {
+        "Endpoints": {
+        "Https":{
+            "Url": "https://localhost:5001"
+        }
+        }
     }
-  },
-  "AllowedHosts": "*",
-  "Kestrel": {
-    "Endpoints": {
-      "Https":{
-        "Url": "https://localhost:5001"
-      }
     }
-  }
-}
 
 </details>
