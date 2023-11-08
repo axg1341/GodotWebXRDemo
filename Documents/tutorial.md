@@ -17,6 +17,7 @@ Dotnet has various templates that can be used for creating a website. For our pu
 
 <details>
     <summary>Click to see code :sparkles:</summary>
+    ```
     using Microsoft.Extensions.Options;
     using Microsoft.AspNetCore.Builder;
     using Microsoft.Extensions.DependencyInjection;
@@ -71,6 +72,7 @@ Dotnet has various templates that can be used for creating a website. For our pu
     app.UseAuthorization();
     app.MapRazorPages();
     app.Run();
+    ```
 </details>
 
 5. Add the following to `appsettings.json`
