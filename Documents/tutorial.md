@@ -99,3 +99,15 @@ Dotnet has various templates that can be used for creating a website. For our pu
     }
 
 </details>
+
+- The logging section configures the behavior of logging within the application
+    - The `LogLevel` defines the log level for every component within the application.
+    - We have it set to the `Default: "Information` which will output informational messages and warnings.
+    - We have the `APS.NetCore` set to `"Warning"` to ignore less severe messages like informational messages.
+    - The `Lifetime: "Information"` specifies that the components responsible for the hosting lifetime (such as start and stop events) should log informational messages.
+- The `AllowedHosts` setting specifies a list of hosts that the application will accept requestsfrom.
+    - The `"*"` wildcard means that it will accept requests from any host.
+- The `Kestrel` section configures the kestrel web server, which is the cross-platform HTTP server used by ASP.NET Core applications.
+    - `"Endpoints":` define the different endpoints the kestrel is listening on.
+    - It is then configured to listen to HTTPs traffic at the url that we defined as `https://localhost:5001`
+
