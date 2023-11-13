@@ -1,5 +1,10 @@
+C:\Users\agran\IC\projects\GodotWebXRDemo\WebXR\bin\Debug\net7.0\published\web.config
 C:\Users\agran\IC\projects\GodotWebXRDemo\WebXR\bin\Debug\net7.0\appsettings.Development.json
 C:\Users\agran\IC\projects\GodotWebXRDemo\WebXR\bin\Debug\net7.0\appsettings.json
+C:\Users\agran\IC\projects\GodotWebXRDemo\WebXR\bin\Debug\net7.0\published\appsettings.Development.json
+C:\Users\agran\IC\projects\GodotWebXRDemo\WebXR\bin\Debug\net7.0\published\appsettings.json
+C:\Users\agran\IC\projects\GodotWebXRDemo\WebXR\bin\Debug\net7.0\published\WebXR.deps.json
+C:\Users\agran\IC\projects\GodotWebXRDemo\WebXR\bin\Debug\net7.0\published\WebXR.runtimeconfig.json
 C:\Users\agran\IC\projects\GodotWebXRDemo\WebXR\bin\Debug\net7.0\WebXR.staticwebassets.runtime.json
 C:\Users\agran\IC\projects\GodotWebXRDemo\WebXR\bin\Debug\net7.0\WebXR.exe
 C:\Users\agran\IC\projects\GodotWebXRDemo\WebXR\bin\Debug\net7.0\WebXR.deps.json

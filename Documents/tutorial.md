@@ -111,3 +111,17 @@ Dotnet has various templates that can be used for creating a website. For our pu
     - `"Endpoints":` define the different endpoints the kestrel is listening on.
     - It is then configured to listen to HTTPs traffic at the url that we defined as `https://localhost:5001`
 
+To publish project:
+```
+dotnet publish -c Release -o published
+```
+- The command arguments:
+    - Build the app in release mode
+    - Creates the assets in the `published` folder
+
+- To run the project:
+```
+dotnet published\aspnetapp.dll
+```
+
+

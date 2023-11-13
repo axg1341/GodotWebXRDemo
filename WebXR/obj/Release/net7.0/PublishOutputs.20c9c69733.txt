@@ -1,0 +1,7 @@
+C:\Users\agran\IC\projects\GodotWebXRDemo\WebXR\published\WebXR.exe
+C:\Users\agran\IC\projects\GodotWebXRDemo\WebXR\published\appsettings.Development.json
+C:\Users\agran\IC\projects\GodotWebXRDemo\WebXR\published\appsettings.json
+C:\Users\agran\IC\projects\GodotWebXRDemo\WebXR\published\WebXR.dll
+C:\Users\agran\IC\projects\GodotWebXRDemo\WebXR\published\WebXR.deps.json
+C:\Users\agran\IC\projects\GodotWebXRDemo\WebXR\published\WebXR.runtimeconfig.json
+C:\Users\agran\IC\projects\GodotWebXRDemo\WebXR\published\WebXR.pdb
